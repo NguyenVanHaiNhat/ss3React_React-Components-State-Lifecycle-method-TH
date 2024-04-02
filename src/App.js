@@ -1,6 +1,6 @@
 import './App.css';
 import Welcome from "./component/Welcome";
-import AddComponent from "./component/AddComponent";
+import {AddComponent} from "./component/AddComponent";
 
 function App() {
   return (
